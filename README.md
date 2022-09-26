@@ -22,6 +22,7 @@ dzen> INSERT INTO emp (emp_id, emp_name, emp_city,  emp_phone, emp_sal) VALUES(3
 
 
 --------------------------------------------------------------------------------------------
+links [Cassandra install]: https://phoenixnap.com/kb/install-cassandra-on-windows
 Links: https://www.baeldung.com/cassandra-with-java
 Links: https://www.tutorialspoint.com/cassandra/cassandra_cql_datatypes.htm
 
