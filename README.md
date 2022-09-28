@@ -1,4 +1,5 @@
 Cassandra Exploration project
+Start server and client
 
 >1: cassandra
 
